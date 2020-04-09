@@ -8,6 +8,7 @@ public class CindyApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CindyApplication.class, args);
+		
 	}
 
 }
